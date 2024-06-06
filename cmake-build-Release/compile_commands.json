@@ -4,5 +4,11 @@
   "command": "/usr/bin/c++  -I/home/dylan/Coding/SDLGame/src -isystem /usr/include/SDL2 -O3 -DNDEBUG -o CMakeFiles/SDLGame.dir/src/game.cpp.o -c /home/dylan/Coding/SDLGame/src/game.cpp",
   "file": "/home/dylan/Coding/SDLGame/src/game.cpp",
   "output": "CMakeFiles/SDLGame.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/dylan/Coding/SDLGame/cmake-build-Release",
+  "command": "/usr/bin/c++  -I/home/dylan/Coding/SDLGame/src -isystem /usr/include/SDL2 -O3 -DNDEBUG -o CMakeFiles/SDLGame.dir/src/input.cpp.o -c /home/dylan/Coding/SDLGame/src/input.cpp",
+  "file": "/home/dylan/Coding/SDLGame/src/input.cpp",
+  "output": "CMakeFiles/SDLGame.dir/src/input.cpp.o"
 }
 ]

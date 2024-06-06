@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dylan/Coding/SDLGame/src/game.cpp" "CMakeFiles/SDLGame.dir/src/game.cpp.o" "gcc" "CMakeFiles/SDLGame.dir/src/game.cpp.o.d"
+  "/home/dylan/Coding/SDLGame/src/input.cpp" "CMakeFiles/SDLGame.dir/src/input.cpp.o" "gcc" "CMakeFiles/SDLGame.dir/src/input.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

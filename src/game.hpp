@@ -7,11 +7,11 @@ private:
   SDL_Surface *screenSurface = NULL;
 
 public:
-	Game() {
+  Game() {
     init();
     printf("Game init\n");
-	}
+  }
 
-	void draw();
-	void init();
+  void draw();
+  void init();
 };

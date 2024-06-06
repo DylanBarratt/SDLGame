@@ -1,4 +1,5 @@
 #include "game.hpp"
+#include "input.hpp"
 
 #include <stdio.h>
 
@@ -29,6 +30,7 @@ void Game::draw() {
 
 int main(int argc, char *args[]) {
   Game gameInstance;
+  Input gameInput;
 
   // Properly shutdown SDL on program exit
   atexit(SDL_Quit);
@@ -37,11 +39,9 @@ int main(int argc, char *args[]) {
 
   // Hack to get window to stay up
   SDL_Event e;
-  bool quit = false;
-  while (quit == false) {
+  while (true) {
     while (SDL_PollEvent(&e)) {
-      if (e.type == SDL_QUIT)
-        quit = true;
+      gameInput.handleInput(e);
     }
   }
 
