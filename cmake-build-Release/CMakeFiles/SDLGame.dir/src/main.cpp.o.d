@@ -1,5 +1,5 @@
-CMakeFiles/SDLGame.dir/src/game.cpp.o: \
- /home/dylan/Coding/SDLGame/src/game.cpp /usr/include/stdc-predef.h \
+CMakeFiles/SDLGame.dir/src/main.cpp.o: \
+ /home/dylan/Coding/SDLGame/src/main.cpp /usr/include/stdc-predef.h \
  /home/dylan/Coding/SDLGame/src/game.hpp \
  /home/dylan/Coding/SDLGame/src/input.hpp /usr/include/SDL2/SDL.h \
  /usr/include/SDL2/SDL_main.h /usr/include/SDL2/SDL_stdinc.h \

@@ -1,1 +1,1 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SDLGame.dir/src/game.cpp.o CMakeFiles/SDLGame.dir/src/input.cpp.o -o SDLGame  /usr/lib/x86_64-linux-gnu/libSDL2.so 
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SDLGame.dir/src/game.cpp.o CMakeFiles/SDLGame.dir/src/input.cpp.o CMakeFiles/SDLGame.dir/src/main.cpp.o -o SDLGame  /usr/lib/x86_64-linux-gnu/libSDL2.so 

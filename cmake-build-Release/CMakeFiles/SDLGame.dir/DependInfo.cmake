@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dylan/Coding/SDLGame/src/game.cpp" "CMakeFiles/SDLGame.dir/src/game.cpp.o" "gcc" "CMakeFiles/SDLGame.dir/src/game.cpp.o.d"
   "/home/dylan/Coding/SDLGame/src/input.cpp" "CMakeFiles/SDLGame.dir/src/input.cpp.o" "gcc" "CMakeFiles/SDLGame.dir/src/input.cpp.o.d"
+  "/home/dylan/Coding/SDLGame/src/main.cpp" "CMakeFiles/SDLGame.dir/src/main.cpp.o" "gcc" "CMakeFiles/SDLGame.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
